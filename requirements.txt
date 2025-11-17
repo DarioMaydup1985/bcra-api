@@ -1,3 +1,5 @@
 flask
 requests
 urllib3
+cryptography
+pyOpenSSL
